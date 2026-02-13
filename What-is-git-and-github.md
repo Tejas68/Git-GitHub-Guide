@@ -1,54 +1,31 @@
 **1.1 What is Git?**
 
 Git is a Version Control System (VCS).
-
-
 A Version Control System helps you:
-
-
 Track changes in files
-
-
 Go back to previous versions
-
-
 Work with a team without overwriting each other's work
-
-
 Manage code history safely
-
-
 Git was created by Linus Torvalds in 2005 for managing the development of the Linux kernel.
 
 
 **1.1 What is Git?**
 
 Git is a Version Control System (VCS).
-
 A Version Control System helps you:
-
 Track changes in files
-
 Go back to previous versions
-
 Work with a team without overwriting each other's work
-
 Manage code history safely
-
 Git was created by Linus Torvalds in 2005 for managing the development of the Linux kernel.
 
 **1.3 How Git Works (Core Concept)**
 
 Git works in three main areas:
-
 1. Working Directory
-
 This is your project folder.
-
 2. Staging Area (Index)
-
 This is where you prepare changes before saving.
-
 3. Repository (.git folder)
 
 This stores the full history of your project.
